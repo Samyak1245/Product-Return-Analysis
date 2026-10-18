@@ -1,0 +1,31 @@
+Order_ID,Product_Category,Price,Return_Status,Return_Reason,Complaint,Order_Date
+1001,Electronics,15000,Yes,Damaged,Yes,2026-01-05
+1002,Clothing,1200,No,None,No,2026-01-06
+1003,Electronics,8000,Yes,Wrong Product,Yes,2026-01-08
+1004,Grocery,500,No,None,No,2026-01-10
+1005,Clothing,2000,Yes,Size Issue,Yes,2026-01-12
+1006,Furniture,12000,No,None,No,2026-01-15
+1007,Electronics,6000,Yes,Poor Quality,Yes,2026-01-18
+1008,Grocery,700,No,None,No,2026-01-20
+1009,Furniture,9000,Yes,Damaged,Yes,2026-02-02
+1010,Clothing,1800,No,None,No,2026-02-04
+1011,Electronics,3500,No,None,No,2026-02-07
+1012,Grocery,450,Yes,Expired Product,Yes,2026-02-10
+1013,Clothing,2500,Yes,Size Issue,Yes,2026-02-13
+1014,Furniture,15000,No,None,No,2026-02-16
+1015,Electronics,7200,Yes,Not as Described,Yes,2026-02-19
+1016,Grocery,600,No,None,No,2026-02-21
+1017,Clothing,1600,Yes,Changed Mind,No,2026-03-01
+1018,Furniture,11000,Yes,Damaged,Yes,2026-03-03
+1019,Electronics,9500,No,None,No,2026-03-07
+1020,Grocery,800,No,None,No,2026-03-10
+1021,Clothing,2200,Yes,Poor Quality,Yes,2026-03-12
+1022,Furniture,8500,No,None,No,2026-03-15
+1023,Electronics,4100,Yes,Damaged,Yes,2026-03-18
+1024,Grocery,550,No,None,No,2026-03-20
+1025,Clothing,1900,No,None,No,2026-03-23
+1026,Electronics,6800,Yes,Wrong Product,Yes,2026-03-25
+1027,Furniture,13500,No,None,No,2026-03-27
+1028,Grocery,650,Yes,Expired Product,Yes,2026-03-29
+1029,Clothing,1400,No,None,No,2026-03-30
+1030,Electronics,5200,No,None,No,2026-03-31
